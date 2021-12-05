@@ -138,7 +138,7 @@ body {
 
 */
 
-@media (min-width:768px) and (max-width:900px) {
+@media (min-width:768px) and (max-width:1006px) {
 	body {
 		background-image: url(images/bg-desktop.svg);
 		background-repeat: no-repeat;
@@ -161,7 +161,7 @@ body {
 }
 
 
-@media (min-width:1006px) {
+@media (min-width:1007px) {
 
 	body {
 		background-image: url(images/bg-desktop.svg);
