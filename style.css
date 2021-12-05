@@ -21,7 +21,6 @@ body {
 	background-repeat: no-repeat;
 	background-position: top;
 	font-family: 'Poppins', sans-serif;
-        height:100vh;
 }
 
 .container {
@@ -145,7 +144,7 @@ body {
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;
-		height:100vh;
+		
 	}
 
 	.section {
@@ -169,7 +168,7 @@ body {
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;
-		height:100vh;
+		
 	}
 
 	.section {
